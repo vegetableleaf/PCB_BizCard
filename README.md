@@ -14,3 +14,9 @@ This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me 
 ### PCB
 ![image](https://github.com/user-attachments/assets/e374cc61-8619-4432-bd17-a6e4ba1d5c0f)
 
+## BOM
+- 1 _NT3H2111W0FHKH_ NFC chip
+- 1 Everlight _17-21/BHC-XL2M2TY/4T_ blue LED
+- 1 _0603WAF470JT5E_ 47Ω resistor
+- 1 _CL10B224KA8NNNC_ 220 nF capacitor
+- 1 PCB board (see above ^)
