@@ -4,7 +4,7 @@ Title says it all. Includes an LED and an NFC chip that I plan on linking my Git
 
 Here's the back if anyone was curious:
 ![image](https://github.com/user-attachments/assets/34755ad4-bb5c-4171-93fd-2821bc7812ec)
-Quite boring IMO.
+_(Quite boring IMO.)_
 
 
 ## <ins> **Schematic & PCB** </ins>
@@ -23,4 +23,4 @@ This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me 
 - 1 _0603WAF470JT5E_ 47Ω resistor: **$0.01**
 - 1 _CL10B224KA8NNNC_ 220 nF capacitor: **$0.01**
 - 1 PCB board (see above ^)
-- **Total Cost: $8.68**
+- **Approximate Total Cost: $8.68**
