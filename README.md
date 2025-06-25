@@ -7,7 +7,7 @@ Here's the back if anyone was curious:
 Quite boring IMO.
 
 
-## Schematic & PCB
+## <ins> Schematic & PCB </ins>
 This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me a bit of trouble as it was unable to detect the footprints that I downloaded. I probably missed some step that caused the error but EasyEDA works all the same.
 
 ### Schematic
