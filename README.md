@@ -8,7 +8,7 @@ _(Quite boring IMO.)_
 
 
 ## <ins> **Schematic & PCB** </ins>
-This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me a bit of trouble as it was unable to detect the footprints that I downloaded. I probably missed some step that caused the error but EasyEDA works all the same.
+This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me a bit of trouble as it was unable to detect the footprints that I downloaded. I probably missed some step that caused the error but EasyEDA works all the same.
 
 ###  Schematic 
 ![image](https://github.com/user-attachments/assets/955199af-117f-446b-bccc-508ceadc8080)
