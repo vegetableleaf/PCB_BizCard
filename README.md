@@ -23,4 +23,4 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 - 1 _0603WAF470JT5E_ 47Ω resistor: **$0.01**
 - 1 _CL10B224KA8NNNC_ 220 nF capacitor: **$0.01**
 - 1 PCB board (see above ^)
-- **Approximate Total Cost: $8.68**
+- **<ins> Approximate Total Cost <\ins>: $8.68**
