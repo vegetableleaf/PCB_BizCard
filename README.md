@@ -1,4 +1,4 @@
-# PCB_BizCard
+# <ins> **PCB BizCard** </ins>
 Title says it all. Includes an LED and an NFC chip that I plan on linking my Github page to. This is my second project for Hack Club's Highway program.
 ![image](https://github.com/user-attachments/assets/fc33cc82-2f29-4e59-9f89-fa51d5097061)
 
@@ -7,16 +7,16 @@ Here's the back if anyone was curious:
 Quite boring IMO.
 
 
-## <ins> Schematic & PCB </ins>
+## <ins> **Schematic & PCB** </ins>
 This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me a bit of trouble as it was unable to detect the footprints that I downloaded. I probably missed some step that caused the error but EasyEDA works all the same.
 
-### Schematic
+### <ins> Schematic </ins>
 ![image](https://github.com/user-attachments/assets/955199af-117f-446b-bccc-508ceadc8080)
 
-### PCB
+### <ins> PCB </ins>
 ![image](https://github.com/user-attachments/assets/e374cc61-8619-4432-bd17-a6e4ba1d5c0f)
 
-## BOM
+## <ins>**BOM**</ins>
 - 1 _NT3H2111W0FHKH_ NFC chip: **$8.64**
 - 1 Everlight _17-21/BHC-XL2M2TY/4T_ blue LED: **$0.02**
 - 1 _0603WAF470JT5E_ 47Ω resistor: **$0.01**
