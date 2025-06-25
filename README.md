@@ -10,10 +10,10 @@ Quite boring IMO.
 ## <ins> **Schematic & PCB** </ins>
 This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me a bit of trouble as it was unable to detect the footprints that I downloaded. I probably missed some step that caused the error but EasyEDA works all the same.
 
-### <ins> Schematic </ins>
+###  Schematic 
 ![image](https://github.com/user-attachments/assets/955199af-117f-446b-bccc-508ceadc8080)
 
-### <ins> PCB </ins>
+### PCB
 ![image](https://github.com/user-attachments/assets/e374cc61-8619-4432-bd17-a6e4ba1d5c0f)
 
 ## <ins>**BOM**</ins>
@@ -22,4 +22,4 @@ This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me 
 - 1 _0603WAF470JT5E_ 47Ω resistor: **$0.01**
 - 1 _CL10B224KA8NNNC_ 220 nF capacitor: **$0.01**
 - 1 PCB board (see above ^)
-  **Total Cost: $8.68**
+- **Total Cost: $8.68**
