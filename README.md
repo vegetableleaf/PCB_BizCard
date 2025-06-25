@@ -18,9 +18,10 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 
 
 ## <ins>**BOM**</ins>
-- 1 _NT3H2111W0FHKH_ NFC chip: **$8.64**
-- 1 Everlight _17-21/BHC-XL2M2TY/4T_ blue LED: **$0.02**
+- 1 _NT3H2111W0FHKH_ NFC chip: **$0.87**
+- 1 Everlight _17-21/BHC-XL2M2TY/4T_ blue LED: **$0.03**
 - 1 _0603WAF470JT5E_ 47Ω resistor: **$0.01**
 - 1 _CL10B224KA8NNNC_ 220 nF capacitor: **$0.01**
 - 1 PCB board (see above ^)
-- **<ins> Approximate Total Cost: $8.68**
+- **<ins> Approximate Total Cost: $0.92**
+- **Estimated Shipping Cost: ~$23**
