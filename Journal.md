@@ -42,13 +42,11 @@ _CL10B224KA8NNNC 220nF Capacitor:_
 
 ## 6/24/25:
 - Time Spent: **5-6 Hours**
-- After spending most of this time frame going all out on all sorts of decals and customizations (including a change in font), I started up the DRC to be absolutely hit in the face by that one via:
+- After spending most of this time frame going all out on the aesthetics (including a change in font, change in location / size of several decals, and the addition of several new decals), I ran the PCB through the DRC to be absolutely hit in the face by that one via:
 ![image](https://github.com/user-attachments/assets/23d11111-48dc-46a0-8d7c-69381154944e)
-- I decided to re-run Autoroute, manually add nodes, and directly connect that last unconnected route without using via:
+- I decided to re-run Autoroute, manually add nodes, and directly connect that last unconnected route without using via, which solved my problem (while avoiding short circuits):
 ![image](https://github.com/user-attachments/assets/730ce38c-e040-4fd0-a9c4-2af95acf1b79)
 - After fixing that error, I re-adjusted some decals to fit with the new routing pattern, added some finishing touches, then started filling all the content for this repository!
-
-### Contemplating the final color scheme
 
 
 ### PCB of the Final Design 
