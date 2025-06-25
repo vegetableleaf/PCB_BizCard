@@ -59,7 +59,7 @@ _CL10B224KA8NNNC 220nF Capacitor:_
 
 
 ## 6/25/25:
-- Spent a couple minutes to add a QR code on the back of the card.
+- Spent about 15 minutes to add a QR code and a couple decals on the back of the card. Updated the repository to record these changes.
  ![image](https://github.com/user-attachments/assets/598515e3-6ef0-4f8a-864f-3420d096c7ab)
 
 
