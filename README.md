@@ -3,8 +3,8 @@ Title says it all. Includes an LED and an NFC chip that I plan on linking my Git
 ![image](https://github.com/user-attachments/assets/cc381888-e3a9-4b0d-9d68-31d7b718b439)
 
 Here's the back if anyone was curious:
-![image](https://github.com/user-attachments/assets/34755ad4-bb5c-4171-93fd-2821bc7812ec)
-_(Quite boring IMO.)_
+![image](https://github.com/user-attachments/assets/de5802b4-055f-4bd6-99d9-0880adb7fe7e)
+It was initially empty but a friend suggested adding some content on the back.
 
 
 ## <ins> **Schematic & PCB** </ins>
