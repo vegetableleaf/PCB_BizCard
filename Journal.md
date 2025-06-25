@@ -24,18 +24,21 @@ _CL10B224KA8NNNC 220nF Capacitor:_
 - Time Spent: **3-5 Hours**
 - After downloading EasyEDA the night before, I wired together the parts in the schematic editor, then generated an initial PCB using the Autoroute tool. I grappled for a while with the one connection that the Autoroute failed to connect, with my initial apporach being to via the wire directly on top of the NFC chip (something that came back to haunt me later on). Also added a few decorations and main text to get a general idea of how to arrange the text & decals:
 
+### EasyEDA Schematics
+![Screenshot 2025-06-23 225215](https://github.com/user-attachments/assets/9c3e801c-bbbd-4096-b1cc-8e0cfaaf1597)
+ 
 ### That one cursed via
-  ![Screenshot 2025-06-23 225215](https://github.com/user-attachments/assets/9c3e801c-bbbd-4096-b1cc-8e0cfaaf1597)
+![Screenshot 2025-06-23 232943](https://github.com/user-attachments/assets/24e8edee-c9c8-4916-9545-c7dd6119ad36)
+ 
+### PCB of the prototype design:
+![Screenshot 2025-06-24 072110](https://github.com/user-attachments/assets/d915778a-6b78-4c81-b430-91839dc5ef28)
 
-### PCB of the initial business card:
-  ![Screenshot 2025-06-24 072110](https://github.com/user-attachments/assets/d915778a-6b78-4c81-b430-91839dc5ef28)
-
-### 3D render of the initial business card:
-  ![Screenshot 2025-06-23 232943](https://github.com/user-attachments/assets/24e8edee-c9c8-4916-9545-c7dd6119ad36)
-
-
-### Prototype PCB design
+### 3D render of the prototype design:
 ![Screenshot 2025-06-24 005428](https://github.com/user-attachments/assets/d618678b-63d5-4d86-9a13-10adca4263f3)
+
+
+
+
 
 ## 6/24/25:
 - Time Spent: **5-6 Hours**
