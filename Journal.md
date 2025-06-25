@@ -30,13 +30,13 @@ _CL10B224KA8NNNC 220nF Capacitor:_
 ### That one cursed via
 ![Screenshot 2025-06-23 232943](https://github.com/user-attachments/assets/24e8edee-c9c8-4916-9545-c7dd6119ad36)
  
-### PCB of the prototype design:
+### PCB of the prototype design
 ![Screenshot 2025-06-24 072110](https://github.com/user-attachments/assets/d915778a-6b78-4c81-b430-91839dc5ef28)
 
-### 3D render of the prototype design:
+### 3D render of the prototype design
 ![Screenshot 2025-06-24 005428](https://github.com/user-attachments/assets/d618678b-63d5-4d86-9a13-10adca4263f3)
 
-
+- At the end, I created the GitHub Repository for this project and went to bed without adding anything significant
 
 
 
@@ -44,7 +44,19 @@ _CL10B224KA8NNNC 220nF Capacitor:_
 - Time Spent: **5-6 Hours**
 - After spending most of this time frame going all out on all sorts of decals and customizations (including a change in font), I started up the DRC to be absolutely hit in the face by that one via:
 ![image](https://github.com/user-attachments/assets/23d11111-48dc-46a0-8d7c-69381154944e)
-- I decided to re-run 
+- I decided to re-run Autoroute, manually add nodes, and directly connect that last unconnected route without using via:
+![image](https://github.com/user-attachments/assets/730ce38c-e040-4fd0-a9c4-2af95acf1b79)
+- After fixing that error, I re-adjusted some decals to fit with the new routing pattern, added some finishing touches, then started filling all the content for this repository!
+
+### Contemplating the final color scheme
+
+
+### PCB of the Final Design 
+![Screenshot 2025-06-24 232655](https://github.com/user-attachments/assets/49c8a6a5-b96f-4fd4-b8d8-ed8cc2f53612)
+
+### 3D render of the Final Design
+![Screenshot 2025-06-24 232546](https://github.com/user-attachments/assets/64ebf17b-98b5-48d9-b0b2-f7ae0e143a45)
+
 
 
 
