@@ -15,7 +15,7 @@ _CL10B224KA8NNNC 220nF Capacitor:_
 ![image](https://github.com/user-attachments/assets/9c069510-5c3c-4d7f-b940-2dfaad27c2d3)
 
 - A symbol/footprint for the _17-21/BHC-XL2M2TY/4T_ Blue LED could not be found, so a generic LED symbol was used.
-### Full BOM in KiCAD Schematic Editor
+### BOM in KiCAD Schematic Editor
 ![image](https://github.com/user-attachments/assets/00cb3fed-5fda-4e4a-9de0-4a3661680fc1)
 
 - After failing to pull the footprints from the downloaded files, I installed EasyEDA and went to bed.
