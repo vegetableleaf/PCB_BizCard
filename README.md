@@ -14,7 +14,12 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 ![image](https://github.com/user-attachments/assets/955199af-117f-446b-bccc-508ceadc8080)
 
 ### PCB
+
+#### Front
 ![image](https://github.com/user-attachments/assets/75a8f495-370a-4c30-b3a0-62657c031cb3)
+
+#### Back
+![image](https://github.com/user-attachments/assets/9d764657-a48b-4cba-a757-28051e141cad)
 
 
 ## <ins>**BOM**</ins>
