@@ -1,5 +1,5 @@
 # <ins> **PCB BizCard** </ins>
-Title says it all. Includes an LED and an NFC chip that I plan on linking my Github page to. This is my second project for Hack Club's Highway program.
+Title says it all. Includes an LED and an NFC chip that I plan on linking my Github page to. This is my second project for Hack Club's Highway program. It was a quick and fulfilling project that allowed me to express my artistic skills through the PCB design.
 ![image](https://github.com/user-attachments/assets/cc381888-e3a9-4b0d-9d68-31d7b718b439)
 
 Here's the back if anyone was curious:
