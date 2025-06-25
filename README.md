@@ -14,7 +14,8 @@ This time, I used EasyEDA to design the Schenatics and PCB. KiCAD was giving me 
 ![image](https://github.com/user-attachments/assets/955199af-117f-446b-bccc-508ceadc8080)
 
 ### PCB
-![image](https://github.com/user-attachments/assets/e374cc61-8619-4432-bd17-a6e4ba1d5c0f)
+![image](https://github.com/user-attachments/assets/10d2473a-9383-4190-bba3-cb8f86b544b0)
+
 
 ## <ins>**BOM**</ins>
 - 1 _NT3H2111W0FHKH_ NFC chip: **$8.64**
