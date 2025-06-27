@@ -30,12 +30,6 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 | _[0603WAF470JT5E]([url](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182))_ (47Ω resistor)| 1 | **$0.01** |
 | _[CL10B224KA8NNNC]([url](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120))_ (220 nF capacitor) |1 |**$0.01**|
 |PCB Board |1 |Unsure |
-|**<ins> Approximate Total Cost: $0.92**|
-|**Estimated Shipping Cost: ~$23**|
+- **<ins> Approximate Total Cost: $0.92**
+- **Estimated Shipping Cost: ~$23**
 
-
-- 1 _NT3H2111W0FHKH_ NFC chip: **$0.87**
-- 1 Everlight _17-21/BHC-XL2M2TY/4T_ blue LED: **$0.03**
-- 1 _0603WAF470JT5E_ 47Ω resistor: **$0.01**
-- 1 _CL10B224KA8NNNC_ 220 nF capacitor: **$0.01**
-- 1 PCB board (see above ^)
