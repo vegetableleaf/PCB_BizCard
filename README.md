@@ -23,12 +23,12 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 
 
 ## <ins>**BOM**</ins>
-|Part Name      |Quantity |Cost   |
+|Part Name      |Quantity |Cost   |Link |
 | ------------- |-------- |------ |
-| NT3H2111W0FHKH (NFC chip) |  1       |**$0.87**  |
-| Everlight 17-21/BHC-XL2M2TY/4T (Blue LED) |  1       |**$0.03**  |
-| 0603WAF470JT5E (47Ω resistor)| 1 | **$0.01** |  
-| [CL10B224KA8NNNC]([url](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120)) (220 nF capacitor) |1 |**$0.01**|
+| NT3H2111W0FHKH (NFC chip) |  1       |**$0.87**  |https://jlcpcb.com/partdetail/NxpSemicon-NT3H2111W0FHKH/C710403|
+| Everlight 17-21/BHC-XL2M2TY/4T (Blue LED) |  1       |**$0.03**  |https://jlcpcb.com/partdetail/EverlightElec-17_21_BHC_XL2M2TY4T/C2986040 |
+| 0603WAF470JT5E (47Ω resistor)| 1 | **$0.01** |https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182|    
+| CL10B224KA8NNNC (220 nF capacitor) |1 |**$0.01**|https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120 |
 |PCB Board |1 |TBD |
 - **<ins> Approximate Total Cost: $0.92**
 - **Estimated Shipping Cost: ~$23**
