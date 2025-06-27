@@ -29,7 +29,7 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 | Everlight _[17-21/BHC-XL2M2TY/4T]([url](https://jlcpcb.com/partdetail/EverlightElec-17_21_BHC_XL2M2TY4T/C2986040?_t=1750827054248))_ (Blue LED) |  1       |**$0.03**  |
 | _[0603WAF470JT5E]([url](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182))_ (47Ω resistor)| 1 | **$0.01** |
 | _[CL10B224KA8NNNC]([url](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120))_ (220 nF capacitor) |1 |**$0.01**|
-|PCB Board |1 |Unsure |
+|PCB Board |1 |TBD |
 - **<ins> Approximate Total Cost: $0.92**
 - **Estimated Shipping Cost: ~$23**
 
