@@ -24,7 +24,7 @@ This time, I used EasyEDA to design the Schematics and PCB. KiCAD was giving me 
 
 ## <ins>**BOM**</ins>
 |Part Name      |Quantity |Cost   |Link |
-| ------------- |-------- |------ |
+| ------------- |-------- |------ |----|
 | NT3H2111W0FHKH (NFC chip) |  1       |**$0.87**  |https://jlcpcb.com/partdetail/NxpSemicon-NT3H2111W0FHKH/C710403|
 | Everlight 17-21/BHC-XL2M2TY/4T (Blue LED) |  1       |**$0.03**  |https://jlcpcb.com/partdetail/EverlightElec-17_21_BHC_XL2M2TY4T/C2986040 |
 | 0603WAF470JT5E (47Ω resistor)| 1 | **$0.01** |https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182|    
