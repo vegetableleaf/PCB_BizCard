@@ -1,3 +1,11 @@
+---
+Title: "PCB BizCard"
+Author: "Ben Zhu (vegetableleaf)"
+Description: "Title says it all! A PCB Business Card with NFC chip"
+created_at: "2025-06-26"
+---
+
+
 # Total time spent: 10-12 Hours
 ## 6/22/25: 
 - Time Spent: **2 Hours**
